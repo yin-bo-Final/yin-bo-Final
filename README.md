@@ -1,4 +1,4 @@
-[![Typing SVG](https://github.com/yin-bo-Final?font=Fira+Code&duration=3000&pause=1000&color=4C4F69&width=435&lines=Hi+there%F0%9F%91%8B;I'm+yin_bo_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4C4F69&background=FF187D00&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+yin_bo_)](https://github.com/yin-bo-Final)
 
 
 
@@ -13,4 +13,4 @@ I'm **yin_bo_** , a backend developer focused on distributed systems and cloud-n
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
+![yin_bo_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=yin_bo_&theme=dark&show_icons=true)
