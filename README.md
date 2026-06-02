@@ -12,5 +12,5 @@ I'm **yin_bo_** , a backend developer focused on distributed systems and cloud-n
   </a>
 </p>
 
-## GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+## My GitHub stats
+![](https://github-readme-stats.vercel.app/api?username=yin-bo-Final&show_icons=true&theme=transparent)
