@@ -13,4 +13,4 @@ I'm **yin_bo_** , a backend developer focused on distributed systems and cloud-n
 </p>
 
 ## My GitHub stats
-<img src="https://stats.dogxi.me/api?username=yin_bo_&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
+<img src="https://stats.dogxi.me/api?username=yin-bo-Final&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
