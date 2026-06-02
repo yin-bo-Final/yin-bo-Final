@@ -2,7 +2,7 @@
 
 
 
-I'm **yin_bo_** , a backend developer focused on distributed systems and cloud-native applications.
+I'm **yin_bo_** , a **backend developer** focused on distributed systems and cloud-native applications🌱.
 
 
 ## My Skills
@@ -13,4 +13,4 @@ I'm **yin_bo_** , a backend developer focused on distributed systems and cloud-n
 </p>
 
 ## My GitHub stats
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=yin-bo-Final&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="70%" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=yin-bo-Final&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="70%" />
