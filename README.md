@@ -1,1 +1,1 @@
-https://readme-typing-svg.demolab.com/demo/?duration=3000&color=4C4F69&center=true&lines=Hi+there%F0%9F%91%8B;I'm+yin_bo_
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4C4F69&center=true&width=435&lines=Hi+there%F0%9F%91%8B;I'm+yin_bo_)](https://git.io/typing-svg)
