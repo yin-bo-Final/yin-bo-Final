@@ -15,6 +15,7 @@ I'm **yin_bo_** , a **backend developer** focused on distributed systems and clo
 ## My GitHub stats
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yin-bo-Final&show_icons=true&theme=radical&hide_border=true&bg_color=4C4F69" alt="GitHub Stats" width="70%" />
 
+[![GitHub Roast](https://githubroast.dev/api/card/yin-bo-Final)](https://githubroast.dev/u/yin-bo-Final)
 
 ## Commits
 ![](https://raw.githubusercontent.com/yin-bo-Final/yin-bo-Final/refs/heads/output/github-contribution-grid-snake.svg)
